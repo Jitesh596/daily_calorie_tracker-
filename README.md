@@ -6,7 +6,7 @@ Python project to track daily calories
 **Date:** 25 Oct 2025  
 **Course:** Programming for Problem Solving using Python  
 
-## 📘 Project Overview
+## Project Overview
 A simple Python CLI app to record daily meals and calories.  
 It calculates total and average calorie intake and compares it with your daily limit.  
 Built using basic Python concepts like lists, loops, and conditional statements.  
